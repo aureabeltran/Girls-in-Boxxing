@@ -1,4 +1,4 @@
-/* --- FRASE --- */
+/* --- HEADER --- */
 
 * {font-family: Verdana;}
 
@@ -15,7 +15,6 @@
 	width: 100vw;
 	max-height: 110px;
 	position: fixed;
-
 }
 
 .tiny {width: 10%; z-index: 2;}
@@ -75,3 +74,48 @@ div.back-opacity p {
 	margin: 20px 0;
 	color: white;
 }
+
+
+
+/* --- IMAGENES --- */
+
+
+.bg-grey{
+	background-color: #181818;
+}
+
+.titulo3{
+	font-size: 20px;
+	font-family: Verdana;
+	color:#BA007C;
+	text-align: center;
+}
+
+.titulo4{
+	font-size: 20px;
+	font-family: Verdana;
+	color:#BA007C;
+	text-align: center;
+}
+
+
+.peque{
+	font-size: 10px;
+	font-family: Verdana;
+	color:white;
+	text-align: center;
+}
+
+h4{
+	text-align: center;
+	font-size: 15px;
+	font-family: Verdana;
+	color:#BA007C;
+}
+
+.imagen{
+	padding: 10px;
+	max-width: 100%;	
+}
+
+
