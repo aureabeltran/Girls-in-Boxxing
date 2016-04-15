@@ -1,3 +1,75 @@
+
 .rosado{
 	background-color: #BA007C;
+}
+.bg-form
+{
+	background-image: url("../img/contacto.jpg");
+	background-size: cover;
+	background-position: right;
+	background-repeat: no-repeat;
+	max-width: 100%;
+
+}
+
+.text-white
+{
+	color:white;
+	font-family:Verdana;
+}
+
+.form 
+{
+	 
+	margin-top: 20px;
+	position:relative;
+	
+	height:700px;
+	width:140%;
+	padding-bottom: 100px;
+
+	
+}
+.text-pink
+{
+
+	color:#BA007C;
+	font-family: Verdana;
+}
+.form-inscrip h2
+
+{
+	position:relative;
+	padding-top: 10%;
+	bottom:10%;
+	
+
+
+}
+
+.btn-insc
+{
+	border-style: none;
+	background-color:#BA007C;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	padding-left: 3%;
+	padding-right: 3%;
+	font-weight: bold;
+	border-radius: 4px;
+}
+
+.form hr 
+{
+	width:250px;
+}
+
+.btn-insc:hover
+{
+	background-color: white;
+	color:#BA007C;
+}
+.form-inscrip
+{
+	padding-bottom: 10%;
 }
