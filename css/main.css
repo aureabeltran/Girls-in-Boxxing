@@ -1,3 +1,42 @@
 .rosado{
 	background-color: #BA007C;
 }
+
+.bg-grey{
+	background-color: #181818;
+}
+
+.titulo3{
+	font-size: 20px;
+	font-family: Verdana;
+	color:#BA007C;
+	text-align: center;
+}
+
+.titulo4{
+	font-size: 20px;
+	font-family: Verdana;
+	color:#BA007C;
+	text-align: center;
+}
+
+
+.peque{
+	font-size: 10px;
+	font-family: Verdana;
+	color:white;
+	text-align: center;
+}
+
+h4{
+	text-align: center;
+	font-size: 15px;
+	font-family: Verdana;
+	color:#BA007C;
+}
+
+.imagen{
+	padding: 10px;
+	max-width: 100%;	
+}
+
