@@ -1,3 +1,43 @@
+*{
+	font-family: Verdana;
+}
+
 .rosado{
 	background-color: #BA007C;
+}
+
+.bg-gris{
+	background-color: #181818;
+	max-height: 100%
+}
+
+.beneficios{
+	margin: 0 auto;
+	width: 800px;
+	height: 400px;
+	margin-left: 55px;
+}
+
+#ben{
+	text-align: center;
+	margin-left: 100px;
+	color: #BA007C;
+	font-size: 15px;
+}
+
+.fa-star{
+	font-size: 5px;
+	color: #BA007C;
+	position: relative;
+	bottom: 2px;
+}
+
+.bg-gris ul li{
+	list-style-type: none;
+	font-size: 12px;
+	color: white;
+	margin-top: 10px;
+	margin-left: 100px;
+	text-align: center;
+
 }
